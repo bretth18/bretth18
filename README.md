@@ -1,6 +1,6 @@
 <h3 align="center">software engineer/musician/creative based in SF.</h3>
 
-- 🔭 I’m currently working on **lots of stuff**
+- 🔭 I’m currently working on **PolyBread(dApp)**
 
 - 🌱 I’m currently learning **web3, solidity**
 
