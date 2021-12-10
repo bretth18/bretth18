@@ -19,7 +19,5 @@ __/\\\_________________________/\\\\\\_____/\\\\\\__________________
 
 @where-to-find-me:                     @computerdata || @computrdata || @bretth18
 
-@email:                                                        bretth18@gmail.com
-
 
 ```
