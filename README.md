@@ -15,7 +15,7 @@ __/\\\_________________________/\\\\\\_____/\\\\\\__________________
 
 @interests:                                  web3, ethereum, solidity, audio, ios
 
-@working-on:                                                   web3, DAO's, music
+@working-on:                                                catalog, dao's, music
 
 @where-to-find-me:                     @computerdata || @computrdata || @bretth18
 
