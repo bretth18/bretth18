@@ -11,13 +11,9 @@ __/\\\_________________________/\\\\\\_____/\\\\\\__________________
         _\///____\///____\//////////__\/////////__\/////////_____\/////_____
 
 ---------------------------------------------------------------------------------
-@bio:                                 software engineer/musician/creative, SF CA. 
-
-@interests:                                  web3, ethereum, solidity, audio, ios
-
-@working-on:                                                catalog, dao's, music
 
 @where-to-find-me:                     @computerdata || @computrdata || @bretth18
+
 
 
 ```
